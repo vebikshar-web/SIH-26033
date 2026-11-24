@@ -21,21 +21,21 @@ The platform introduces a unique concept called Community Demand Pooling.
 
 Instead of waiting for farmers to harvest and search for buyers, HarvestLoop collects advance requirements from nearby households, shops, restaurants, and bulk buyers. It combines these requirements and informs farmers about the quantity of crops needed.
 Benefits:
-Direct Farmer-to-Buyer Connection: Farmers can upload crop details, available quantities, quality, and expected prices.
+*Direct Farmer-to-Buyer Connection: Farmers can upload crop details, available quantities, quality, and expected prices.
 
-Community Demand Pooling: Orders from multiple consumers are combined to create larger orders, reducing transportation and distribution costs.
+*Community Demand Pooling: Orders from multiple consumers are combined to create larger orders, reducing transportation and distribution costs.
 
-Farmer-Controlled Pricing: Farmers can set a minimum acceptable price and receive transparent buyer offers.
+*Farmer-Controlled Pricing: Farmers can set a minimum acceptable price and receive transparent buyer offers.
 
-Smart Logistics: The system groups nearby orders and identifies efficient delivery routes.
+*Smart Logistics: The system groups nearby orders and identifies efficient delivery routes.
 
-AI Demand Prediction: AI analyses previous orders, seasonal demand, and market trends to estimate future crop requirements.
+*AI Demand Prediction: AI analyses previous orders, seasonal demand, and market trends to estimate future crop requirements.
 
-Digital Payment System: Farmers receive payments directly through integrated digital payment services.
+*Digital Payment System: Farmers receive payments directly through integrated digital payment services.
 
-Quality and Freshness Tracking: Buyers can view harvest dates, product details, and quality information.
+*Quality and Freshness Tracking: Buyers can view harvest dates, product details, and quality information.
 
-Village Collection Hubs: Small collection centres are established where farmers can combine their produce before transportation.
+*Village Collection Hubs: Small collection centres are established where farmers can combine their produce before transportation.
 ## Proposed Solution
 The uniqueness of HarvestLoop is its combination of three features:
 
@@ -48,21 +48,21 @@ The uniqueness of HarvestLoop is its combination of three features:
 An additional feature is an offline-friendly interface with regional language support, allowing farmers with limited digital literacy or internet access to participate through assisted registration and order services.
 
 ## Technical Approach
-Farmers register and upload their available crops, quantity, location, and minimum expected price.
+*Farmers register and upload their available crops, quantity, location, and minimum expected price.
 
-Consumers and bulk buyers register and submit their product requirements.
+*Consumers and bulk buyers register and submit their product requirements.
 
-The system combines nearby orders and identifies the total demand for each crop.
+*The system combines nearby orders and identifies the total demand for each crop.
 
-The AI model analyses historical sales, seasonal patterns, and current demand to forecast requirements.
+*The AI model analyses historical sales, seasonal patterns, and current demand to forecast requirements.
 
-Farmers receive demand notifications and can accept or reject buyer offers.
+*Farmers receive demand notifications and can accept or reject buyer offers.
 
-Once an order is confirmed, the system assigns the produce to a nearby collection hub.
+*Once an order is confirmed, the system assigns the produce to a nearby collection hub.
 
-The route optimization module groups deliveries and identifies efficient transportation routes.
+*The route optimization module groups deliveries and identifies efficient transportation routes.
 
-Buyers receive their products, and farmers receive payment through the digital payment system
+*Buyers receive their products, and farmers receive payment through the digital payment system
 HarvestLoop System Workflow
 
           FARMERS / FPOs
@@ -79,8 +79,6 @@ HarvestLoop System Workflow
         |                 |
         v                 v
   CONSUMER ORDERS     BULK BUYERS
-  Households          Hotels
-  Retailers           Supermarkets
         |                 |
         +--------+--------+
                  |
@@ -114,55 +112,55 @@ HarvestLoop System Workflow
              BENEFITS
 Working Prototype Modules
 
-The proposed prototype will contain the following modules:
+*The proposed prototype will contain the following modules:
 
-Farmer Dashboard: Upload crops, manage stock, view orders, and track payments.
+*Farmer Dashboard: Upload crops, manage stock, view orders, and track payments.
 
-Consumer Dashboard: Search products, compare prices, and place orders.
+*Consumer Dashboard: Search products, compare prices, and place orders.
 
-Bulk Buyer Dashboard: Submit large requirements and receive farmer offers.
+*Bulk Buyer Dashboard: Submit large requirements and receive farmer offers.
 
-AI Prediction Module: Forecast demand and identify high-demand crops.
+*AI Prediction Module: Forecast demand and identify high-demand crops.
 
-Logistics Module: Group orders and suggest efficient delivery routes.
+*Logistics Module: Group orders and suggest efficient delivery routes.
 
-Admin Dashboard: Manage users, collection hubs, complaints, and transactions
+*Admin Dashboard: Manage users, collection hubs, complaints, and transactions
 ## Feasibility and Viability
 Analysis of Feasibility
 
-HarvestLoop is technically and economically feasible because it uses existing technologies such as smartphones, internet services, cloud databases, machine learning, and digital payments.
+*HarvestLoop is technically and economically feasible because it uses existing technologies such as smartphones, internet services, cloud databases, machine learning, and digital payments.
 
-The application can initially be developed as a web-based prototype and later expanded into a mobile application.
+*The application can initially be developed as a web-based prototype and later expanded into a mobile application.
 
-A pilot implementation can begin in a small group of villages by partnering with local farmers and FPOs.
+*A pilot implementation can begin in a small group of villages by partnering with local farmers and FPOs.
  Potential Challenges and Risks
 
-Farmers may have limited knowledge of digital platforms.
+*Farmers may have limited knowledge of digital platforms.
 
-Internet connectivity may be poor in rural areas.
+*Internet connectivity may be poor in rural areas.
 
-Crop prices and demand may fluctuate.
+*Crop prices and demand may fluctuate.
 
-Transportation and storage facilities may be insufficient.
+*Transportation and storage facilities may be insufficient.
 
-Buyers may cancel orders after farmers prepare their produce.
+*Buyers may cancel orders after farmers prepare their produce.
 
-Maintaining product quality during transportation may be difficult.
+*Maintaining product quality during transportation may be difficult.
 Strategies for Overcoming Challenges
 
-Provide regional language support and simple user interfaces.
+*Provide regional language support and simple user interfaces.
 
-Introduce assisted registration through village coordinators.
+*Introduce assisted registration through village coordinators.
 
-Provide SMS notifications and offline order assistance.
+*Provide SMS notifications and offline order assistance.
 
-Use AI-based demand estimation to improve planning.
+*Use AI-based demand estimation to improve planning.
 
-Introduce advance booking confirmation and cancellation policies.
+*Introduce advance booking confirmation and cancellation policies.
 
-Partner with local transport providers and cold-storage facilities.
+*Partner with local transport providers and cold-storage facilities.
 
-Maintain transparent records of orders, payments, and deliveries.
+*Maintain transparent records of orders, payments, and deliveries.
 ## Impact and Benefits
 Potential Impact on the Target Audience
 
