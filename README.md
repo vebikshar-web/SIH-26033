@@ -65,51 +65,6 @@ An additional feature is an offline-friendly interface with regional language su
 *Buyers receive their products, and farmers receive payment through the digital payment system
 HarvestLoop System Workflow
 
-          FARMERS / FPOs
-                 |
-                 v
-       Upload Crop Details
-     (Quantity, Price, Location)
-                 |
-                 v
-          HARVESTLOOP
-          MARKETPLACE
-                 |
-        +--------+--------+
-        |                 |
-        v                 v
-  CONSUMER ORDERS     BULK BUYERS
-        |                 |
-        +--------+--------+
-                 |
-                 v
-       COMMUNITY DEMAND
-             POOLING
-                 |
-                 v
-       AI DEMAND FORECASTING
-                 |
-                 v
-       FARMER PRICE OFFERS
-                 |
-                 v
-       ORDER CONFIRMATION
-                 |
-                 v
-       VILLAGE COLLECTION HUB
-                 |
-                 v
-       SMART ROUTE OPTIMIZATION
-                 |
-                 v
-        DELIVERY TO BUYERS
-                 |
-                 v
-       DIRECT DIGITAL PAYMENT
-                 |
-                 v
-        FARMER + CONSUMER
-             BENEFITS
 Working Prototype Modules
 
 *The proposed prototype will contain the following modules:
