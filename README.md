@@ -112,7 +112,7 @@ HarvestLoop System Workflow
                  v
         FARMER + CONSUMER
              BENEFITS
-             Working Prototype Modules
+Working Prototype Modules
 
 The proposed prototype will contain the following modules:
 
